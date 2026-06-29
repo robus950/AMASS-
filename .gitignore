@@ -1,0 +1,38 @@
+# ── Python ──────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# ── SMPL-X models (license-restricted, download separately) ─
+support_data/smplx/*/model.pkl
+support_data/smplx/*/*.npz
+
+# ── Large output data ───────────────────────────────
+work/mosh_results/
+work/CMU/
+work/subjects/
+*.npz
+
+# Keep the mocap reference file for retargeting
+!work/mocap/0416.npz
+
+# ── IDE ─────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── OS ──────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Misc ────────────────────────────────────────────
+*.log
+*.tmp

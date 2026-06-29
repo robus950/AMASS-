@@ -1,0 +1,2013 @@
+{
+  "visuals": [
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface23.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface23"
+      },
+      "name": "polySurface23",
+      "origin": {
+        "position": [
+          -1.5895152216671704e-07,
+          0.3238446116447449,
+          -1.3209381103515625
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "polySurface23"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface90.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface90"
+      },
+      "name": "polySurface90",
+      "origin": {
+        "position": [
+          -3.660716174636036e-11,
+          -5.811452865600586e-06,
+          -0.0039215087890625
+        ],
+        "relative_to": "Spine",
+        "rotation": [
+          0.0,
+          -6.661338147750939e-16,
+          0.0
+        ]
+      },
+      "original_name": "polySurface90"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface33.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface33"
+      },
+      "name": "polySurface33",
+      "origin": {
+        "position": [
+          -1.0936673788819462e-10,
+          -5.4717063903808594e-05,
+          -0.00463104248046875
+        ],
+        "relative_to": "hc_Chest",
+        "rotation": [
+          9.087677628146056e-28,
+          -7.105427357601002e-15,
+          -2.842170943040401e-14
+        ]
+      },
+      "original_name": "polySurface33"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface3.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface3"
+      },
+      "name": "polySurface3",
+      "origin": {
+        "position": [
+          -0.0006580352783203125,
+          -0.0003566741943359375,
+          -0.0054473876953125
+        ],
+        "relative_to": "hc_Shoulder_L",
+        "rotation": [
+          -1.4901162959289315e-08,
+          1.746156552684397e-10,
+          8.195552977070443e-17
+        ]
+      },
+      "original_name": "polySurface3"
+    },
+    {
+      "currentUVSet": "map1",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface30.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface30"
+      },
+      "name": "polySurface30",
+      "origin": {
+        "position": [
+          -0.00173187255859375,
+          -0.00035953521728515625,
+          -0.0054168701171875
+        ],
+        "relative_to": "hc_Elbow_L",
+        "rotation": [
+          9.612648724141266e-16,
+          -9.313225746154785e-10,
+          -3.259628556795443e-09
+        ]
+      },
+      "original_name": "polySurface30"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface4.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface4"
+      },
+      "name": "polySurface4",
+      "origin": {
+        "position": [
+          -0.00272369384765625,
+          -0.000392913818359375,
+          -0.0053863525390625
+        ],
+        "relative_to": "hc_Hand_L",
+        "rotation": [
+          -7.450580516909362e-09,
+          3.6088749766349792e-09,
+          1.778510695292608e-17
+        ]
+      },
+      "original_name": "polySurface4"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface44.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface44"
+      },
+      "name": "polySurface44",
+      "origin": {
+        "position": [
+          -0.00316619873046875,
+          -0.0002994537353515625,
+          -0.00537109375
+        ],
+        "relative_to": "hc_Index1_L",
+        "rotation": [
+          0.0,
+          0.0,
+          9.313225746154785e-10
+        ]
+      },
+      "original_name": "polySurface44"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface58.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface58"
+      },
+      "name": "polySurface58",
+      "origin": {
+        "position": [
+          -0.00331878662109375,
+          -0.0003032684326171875,
+          -0.0053558349609375
+        ],
+        "relative_to": "hc_Index2_L",
+        "rotation": [
+          -3.725290613751416e-09,
+          -7.450581485102248e-09,
+          -1.4933408449953447e-16
+        ]
+      },
+      "original_name": "polySurface58"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface45.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface45"
+      },
+      "name": "polySurface45",
+      "origin": {
+        "position": [
+          -0.00344085693359375,
+          -0.00030612945556640625,
+          -0.005340576171875
+        ],
+        "relative_to": "hc_Index3_L",
+        "rotation": [
+          -1.4901159343900158e-08,
+          7.450584371682112e-09,
+          -7.078051205002293e-08
+        ]
+      },
+      "original_name": "polySurface45"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface47.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface47"
+      },
+      "name": "polySurface47",
+      "origin": {
+        "position": [
+          -0.00318145751953125,
+          -0.000396728515625,
+          -0.005401611328125
+        ],
+        "relative_to": "hc_Middle1_L",
+        "rotation": [
+          6.938893903907228e-18,
+          -7.450580596923828e-09,
+          -9.313225746154785e-10
+        ]
+      },
+      "original_name": "polySurface47"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface17.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface17"
+      },
+      "name": "polySurface17",
+      "origin": {
+        "position": [
+          -0.0033416748046875,
+          -0.000396728515625,
+          -0.00537109375
+        ],
+        "relative_to": "hc_Middle2_L",
+        "rotation": [
+          3.7253033017319054e-09,
+          1.4901159639535422e-08,
+          -1.1175865456281442e-08
+        ]
+      },
+      "original_name": "polySurface17"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface46.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface46"
+      },
+      "name": "polySurface46",
+      "origin": {
+        "position": [
+          -0.00347137451171875,
+          -0.000400543212890625,
+          -0.0053253173828125
+        ],
+        "relative_to": "hc_Middle3_L",
+        "rotation": [
+          -1.4901156119658226e-08,
+          -1.4901155642732533e-08,
+          7.450581719912903e-09
+        ]
+      },
+      "original_name": "polySurface46"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface50.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface50"
+      },
+      "name": "polySurface50",
+      "origin": {
+        "position": [
+          -0.00310516357421875,
+          -0.00054931640625,
+          -0.0053558349609375
+        ],
+        "relative_to": "hc_Pinky1_L",
+        "rotation": [
+          -1.8626441342609886e-09,
+          -3.725291186640334e-09,
+          -7.45057945074055e-09
+        ]
+      },
+      "original_name": "polySurface50"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface19.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface19"
+      },
+      "name": "polySurface19",
+      "origin": {
+        "position": [
+          -0.00324249267578125,
+          -0.00055694580078125,
+          -0.0053558349609375
+        ],
+        "relative_to": "hc_Pinky2_L",
+        "rotation": [
+          3.725291062072381e-09,
+          3.7252918527741485e-09,
+          3.259628898803838e-09
+        ]
+      },
+      "original_name": "polySurface19"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface51.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface51"
+      },
+      "name": "polySurface51",
+      "origin": {
+        "position": [
+          -0.0033416748046875,
+          -0.0005674362182617188,
+          -0.005340576171875
+        ],
+        "relative_to": "hc_Pinky3_L",
+        "rotation": [
+          -1.862644853096179e-09,
+          -7.450580596923828e-09,
+          -9.313227369833828e-10
+        ]
+      },
+      "original_name": "polySurface51"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface85.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface85"
+      },
+      "name": "polySurface85",
+      "origin": {
+        "position": [
+          -0.00315093994140625,
+          -0.00048065185546875,
+          -0.0053863525390625
+        ],
+        "relative_to": "hc_Ring1_L",
+        "rotation": [
+          1.0508022323528077e-17,
+          -3.725290298461914e-09,
+          9.31322570704118e-10
+        ]
+      },
+      "original_name": "polySurface85"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface83.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface83"
+      },
+      "name": "polySurface83",
+      "origin": {
+        "position": [
+          -0.003326416015625,
+          -0.00047969818115234375,
+          -0.00537109375
+        ],
+        "relative_to": "hc_Ring2_L",
+        "rotation": [
+          7.450577886005048e-09,
+          1.7763568394002505e-15,
+          1.862644390428829e-09
+        ]
+      },
+      "original_name": "polySurface83"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface80.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface80"
+      },
+      "name": "polySurface80",
+      "origin": {
+        "position": [
+          -0.0034332275390625,
+          -0.0004863739013671875,
+          -0.005340576171875
+        ],
+        "relative_to": "hc_Ring3_L",
+        "rotation": [
+          7.450584198569904e-09,
+          1.7763568394002505e-15,
+          1.862645812143147e-09
+        ]
+      },
+      "original_name": "polySurface80"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface32.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface32"
+      },
+      "name": "polySurface32",
+      "origin": {
+        "position": [
+          -0.00290679931640625,
+          -0.00029659271240234375,
+          -0.0053253173828125
+        ],
+        "relative_to": "hc_Thumb1_L",
+        "rotation": [
+          -1.490116111655599e-08,
+          -1.5543122344752192e-15,
+          1.4901161214003285e-08
+        ]
+      },
+      "original_name": "polySurface32"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface20.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface20"
+      },
+      "name": "polySurface20",
+      "origin": {
+        "position": [
+          -0.00301361083984375,
+          -0.0002231597900390625,
+          -0.005279541015625
+        ],
+        "relative_to": "hc_Thumb2_L",
+        "rotation": [
+          1.4901162715788326e-08,
+          0.0,
+          -7.450580638947922e-09
+        ]
+      },
+      "original_name": "polySurface20"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface31.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface31"
+      },
+      "name": "polySurface31",
+      "origin": {
+        "position": [
+          -0.00316619873046875,
+          -0.00021314620971679688,
+          -0.005279541015625
+        ],
+        "relative_to": "hc_Thumb3_L",
+        "rotation": [
+          7.450583298920191e-09,
+          -4.656612873077393e-10,
+          -2.5979451749993827e-18
+        ]
+      },
+      "original_name": "polySurface31"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface1.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface1"
+      },
+      "name": "polySurface1",
+      "origin": {
+        "position": [
+          0.0006580352783203125,
+          -0.0003566741943359375,
+          -0.005462646484375
+        ],
+        "relative_to": "hc_Shoulder_R",
+        "rotation": [
+          -1.8626453768318003e-09,
+          -4.656612873077393e-10,
+          9.313225806245063e-09
+        ]
+      },
+      "original_name": "polySurface1"
+    },
+    {
+      "currentUVSet": "map1",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface27.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface27"
+      },
+      "name": "polySurface27",
+      "origin": {
+        "position": [
+          0.00174713134765625,
+          -0.00046443939208984375,
+          -0.00543212890625
+        ],
+        "relative_to": "hc_Elbow_R",
+        "rotation": [
+          -1.490116126522363e-08,
+          1.862645371275562e-09,
+          1.86264536787434e-09
+        ]
+      },
+      "original_name": "polySurface27"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface2.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface2"
+      },
+      "name": "polySurface2",
+      "origin": {
+        "position": [
+          0.0027313232421875,
+          -0.00044345855712890625,
+          -0.005462646484375
+        ],
+        "relative_to": "hc_Hand_R",
+        "rotation": [
+          -1.8626450679514303e-09,
+          -1.1641532182693481e-10,
+          1.3608298568099274e-17
+        ]
+      },
+      "original_name": "polySurface2"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface42.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface42"
+      },
+      "name": "polySurface42",
+      "origin": {
+        "position": [
+          0.00310516357421875,
+          -0.000606536865234375,
+          -0.005462646484375
+        ],
+        "relative_to": "XBR.039",
+        "rotation": [
+          3.725290289167079e-09,
+          -1.8626447051417472e-09,
+          -1.2805681511969019e-09
+        ]
+      },
+      "original_name": "polySurface42"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface57.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface57"
+      },
+      "name": "polySurface57",
+      "origin": {
+        "position": [
+          0.0032501220703125,
+          -0.0006198883056640625,
+          -0.005462646484375
+        ],
+        "relative_to": "hc_Pinky2_R",
+        "rotation": [
+          3.7252901812239333e-09,
+          5.238689482212067e-10,
+          -7.501512354971308e-09
+        ]
+      },
+      "original_name": "polySurface57"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface43.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface43"
+      },
+      "name": "polySurface43",
+      "origin": {
+        "position": [
+          0.00334930419921875,
+          -0.0006313323974609375,
+          -0.005462646484375
+        ],
+        "relative_to": "hc_Pinky3_R",
+        "rotation": [
+          7.4505805403421e-09,
+          4.656612873077393e-10,
+          3.899913512392892e-09
+        ]
+      },
+      "original_name": "polySurface43"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface36.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface36"
+      },
+      "name": "polySurface36",
+      "origin": {
+        "position": [
+          0.003173828125,
+          -0.0003566741943359375,
+          -0.005462646484375
+        ],
+        "relative_to": "hc_Index1_R",
+        "rotation": [
+          2.602084154140051e-18,
+          -7.450580596923828e-09,
+          -3.492458350666821e-10
+        ]
+      },
+      "original_name": "polySurface36"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface93.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface93"
+      },
+      "name": "polySurface93",
+      "origin": {
+        "position": [
+          0.003326416015625,
+          -0.0003509521484375,
+          -0.005462646484375
+        ],
+        "relative_to": "hc_Index2_R",
+        "rotation": [
+          -1.8626452887930193e-09,
+          2.220446049250313e-16,
+          -6.984919882696445e-10
+        ]
+      },
+      "original_name": "polySurface93"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface95.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface95"
+      },
+      "name": "polySurface95",
+      "origin": {
+        "position": [
+          0.00345611572265625,
+          -0.00034427642822265625,
+          -0.0054473876953125
+        ],
+        "relative_to": "hc_Index3_R",
+        "rotation": [
+          -3.7252822462459612e-09,
+          -3.72528696779284e-09,
+          -2.15368343524114e-09
+        ]
+      },
+      "original_name": "polySurface95"
+    },
+    {
+      "currentUVSet": "map1",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface39.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface39"
+      },
+      "name": "polySurface39",
+      "origin": {
+        "position": [
+          0.0,
+          -9.5367431640625e-07,
+          0.0
+        ],
+        "relative_to": "hc_Middle1_R",
+        "rotation": [
+          9.31322603228257e-10,
+          -1.862645149230957e-09,
+          -2.910382301611905e-10
+        ]
+      },
+      "original_name": "polySurface39"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface13.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface13"
+      },
+      "name": "polySurface13",
+      "origin": {
+        "position": [
+          0.0033416748046875,
+          -0.0004444122314453125,
+          -0.0054779052734375
+        ],
+        "relative_to": "hc_Middle2_R",
+        "rotation": [
+          7.450579972823196e-09,
+          -3.725290742551124e-09,
+          1.4325444720438354e-18
+        ]
+      },
+      "original_name": "polySurface13"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface38.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface38"
+      },
+      "name": "polySurface38",
+      "origin": {
+        "position": [
+          0.00347137451171875,
+          -0.00043773651123046875,
+          -0.0054779052734375
+        ],
+        "relative_to": "hc_Middle3_R",
+        "rotation": [
+          7.349998728898416e-17,
+          -3.7252898543727042e-09,
+          1.1641530897319801e-09
+        ]
+      },
+      "original_name": "polySurface38"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface40.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface40"
+      },
+      "name": "polySurface40",
+      "origin": {
+        "position": [
+          0.00316619873046875,
+          -0.0005359649658203125,
+          -0.0054779052734375
+        ],
+        "relative_to": "hc_Ring1_R",
+        "rotation": [
+          -5.58793545872349e-09,
+          -3.725290298461914e-09,
+          2.3283064549805143e-10
+        ]
+      },
+      "original_name": "polySurface40"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface14.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface14"
+      },
+      "name": "polySurface14",
+      "origin": {
+        "position": [
+          0.00331878662109375,
+          -0.0005407333374023438,
+          -0.0054931640625
+        ],
+        "relative_to": "hc_Ring2_R",
+        "rotation": [
+          0.0,
+          0.0,
+          -1.455192307696991e-11
+        ]
+      },
+      "original_name": "polySurface14"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface41.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface41"
+      },
+      "name": "polySurface41",
+      "origin": {
+        "position": [
+          0.00345611572265625,
+          -0.0005397796630859375,
+          -0.0054931640625
+        ],
+        "relative_to": "hc_Ring3_R",
+        "rotation": [
+          1.0658101272071699e-14,
+          -8.881784197001252e-16,
+          5.820759052350316e-11
+        ]
+      },
+      "original_name": "polySurface41"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface29.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface29"
+      },
+      "name": "polySurface29",
+      "origin": {
+        "position": [
+          0.0029144287109375,
+          -0.0003528594970703125,
+          -0.005401611328125
+        ],
+        "relative_to": "hc_Thumb1_R",
+        "rotation": [
+          3.725288732320345e-09,
+          1.8626367115359699e-09,
+          -1.4901157840156763e-08
+        ]
+      },
+      "original_name": "polySurface29"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface72.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface72"
+      },
+      "name": "polySurface72",
+      "origin": {
+        "position": [
+          0.00302886962890625,
+          -0.0002703666687011719,
+          -0.0053863525390625
+        ],
+        "relative_to": "hc_Thumb2_R",
+        "rotation": [
+          1.6257407883194298e-15,
+          3.7252898543727042e-09,
+          -1.8626451183452522e-09
+        ]
+      },
+      "original_name": "polySurface72"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface73.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface73"
+      },
+      "name": "polySurface73",
+      "origin": {
+        "position": [
+          0.003173828125,
+          -0.00025272369384765625,
+          -0.005401611328125
+        ],
+        "relative_to": "hc_Thumb3_R",
+        "rotation": [
+          2.346978338560886e-16,
+          -2.7939677238464355e-09,
+          4.656613017836291e-10
+        ]
+      },
+      "original_name": "polySurface73"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface25.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface25"
+      },
+      "name": "polySurface25",
+      "origin": {
+        "position": [
+          -2.2237145458348095e-10,
+          -0.0002155303955078125,
+          -0.005706787109375
+        ],
+        "relative_to": "neck",
+        "rotation": [
+          -7.450581822574987e-09,
+          0.0,
+          -4.334426409777865e-22
+        ]
+      },
+      "original_name": "polySurface25"
+    },
+    {
+      "currentUVSet": "map1",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface91.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface91"
+      },
+      "name": "polySurface91",
+      "origin": {
+        "position": [
+          -2.610249794088304e-10,
+          -0.0001468658447265625,
+          -0.00604248046875
+        ],
+        "relative_to": "hc_Head",
+        "rotation": [
+          -7.450583847088879e-09,
+          6.661338147750939e-16,
+          -3.321468242178827e-14
+        ]
+      },
+      "original_name": "polySurface91"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface86.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface86"
+      },
+      "name": "polySurface86",
+      "origin": {
+        "position": [
+          -0.00032806396484375,
+          -1.919269561767578e-05,
+          -0.00348663330078125
+        ],
+        "relative_to": "hc_Hip_L",
+        "rotation": [
+          -1.8626457897800548e-09,
+          5.820766091346741e-11,
+          -2.793968367151709e-09
+        ]
+      },
+      "original_name": "polySurface86"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface21.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface21"
+      },
+      "name": "polySurface21",
+      "origin": {
+        "position": [
+          -0.00033092498779296875,
+          -6.532669067382812e-05,
+          -0.001918792724609375
+        ],
+        "relative_to": "hc_Knee_L",
+        "rotation": [
+          7.450580536811173e-09,
+          9.313230187046884e-10,
+          -7.450580701687591e-09
+        ]
+      },
+      "original_name": "polySurface21"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface7.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface7"
+      },
+      "name": "polySurface7",
+      "origin": {
+        "position": [
+          -0.00032520294189453125,
+          -0.00029277801513671875,
+          -0.0004730224609375
+        ],
+        "relative_to": "hc_Foot_L",
+        "rotation": [
+          -1.490116086510848e-08,
+          3.725290742551124e-09,
+          3.725290595986586e-09
+        ]
+      },
+      "original_name": "polySurface7"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface9.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface9"
+      },
+      "name": "polySurface9",
+      "origin": {
+        "position": [
+          -0.0003452301025390625,
+          0.00030612945556640625,
+          -8.225440979003906e-05
+        ],
+        "relative_to": "LeftToeBase",
+        "rotation": [
+          7.450581267692976e-09,
+          1.4901160971803051e-08,
+          2.980232248408996e-08
+        ]
+      },
+      "original_name": "polySurface9"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface87.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface87"
+      },
+      "name": "polySurface87",
+      "origin": {
+        "position": [
+          0.00032806396484375,
+          -1.919269561767578e-05,
+          -0.00348663330078125
+        ],
+        "relative_to": "hc_Hip_R",
+        "rotation": [
+          -1.0495278365420778e-17,
+          -2.2118911147117615e-09,
+          -1.8626452253545988e-09
+        ]
+      },
+      "original_name": "polySurface87"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface22.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface22"
+      },
+      "name": "polySurface22",
+      "origin": {
+        "position": [
+          0.0003643035888671875,
+          -6.651878356933594e-05,
+          -0.00191497802734375
+        ],
+        "relative_to": "hc_Knee_R",
+        "rotation": [
+          7.450580634979872e-09,
+          1.862645149230957e-09,
+          -3.7252902586369015e-09
+        ]
+      },
+      "original_name": "polySurface22"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface8.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface8"
+      },
+      "name": "polySurface8",
+      "origin": {
+        "position": [
+          0.0003986358642578125,
+          -0.000293731689453125,
+          -0.0004711151123046875
+        ],
+        "relative_to": "hc_Foot_R",
+        "rotation": [
+          1.00514057090739e-16,
+          -7.450582373280668e-09,
+          -4.642461658192406e-16
+        ]
+      },
+      "original_name": "polySurface8"
+    },
+    {
+      "currentUVSet": "DiffuseUV",
+      "geometry": {
+        "exported": {
+          "obj": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\obj\\polySurface10.obj",
+            "operations": [
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "unique_name": "polySurface10"
+      },
+      "name": "polySurface10",
+      "origin": {
+        "position": [
+          0.0004405975341796875,
+          0.00030517578125,
+          -8.320808410644531e-05
+        ],
+        "relative_to": "RightToeBase",
+        "rotation": [
+          7.450581491272387e-09,
+          0.0,
+          -1.4901162875552686e-08
+        ]
+      },
+      "original_name": "polySurface10"
+    }
+  ]
+}

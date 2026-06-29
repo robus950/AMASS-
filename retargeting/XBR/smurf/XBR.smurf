@@ -1,0 +1,13 @@
+{
+  "additional_files": {},
+  "description": "",
+  "files": [
+    "..\\urdf\\XBR.urdf",
+    "XBR_joints.yml",
+    "XBR_links.yml",
+    "XBR_materials.yml",
+    "XBR_visuals.yml"
+  ],
+  "modelname": "XBR",
+  "version": "0.0.0"
+}

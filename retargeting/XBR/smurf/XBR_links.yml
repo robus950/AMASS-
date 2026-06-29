@@ -1,0 +1,1082 @@
+{
+  "links": [
+    {
+      "model": {
+        "name": "XBR"
+      },
+      "name": "hc_Abdomen",
+      "originRoot": {
+        "position": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface23"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "Spine",
+      "originRoot": {
+        "position": [
+          8.410849687834343e-07,
+          -0.5671533048152924,
+          9.488670349121094
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface90"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Chest",
+      "originRoot": {
+        "position": [
+          2.8411577233100616e-06,
+          0.783490002155304,
+          28.69622802734375
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface33"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Shoulder_L",
+      "originRoot": {
+        "position": [
+          18.023298104598283,
+          9.014819204807281,
+          51.08380126953125
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface3"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Elbow_L",
+      "originRoot": {
+        "position": [
+          47.85985167820668,
+          9.063817083835602,
+          50.56962585449219
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface30"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Hand_L",
+      "originRoot": {
+        "position": [
+          74.80692275364613,
+          10.024806082248688,
+          49.767578125
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface4"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Index1_L",
+      "originRoot": {
+        "position": [
+          86.90219863255238,
+          7.425765097141266,
+          49.36883544921875
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface44"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Index2_L",
+      "originRoot": {
+        "position": [
+          91.14247878391957,
+          7.526480734348297,
+          48.74114990234375
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface58"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Index3_L",
+      "originRoot": {
+        "position": [
+          94.4458311398766,
+          7.581127226352692,
+          47.96429443359375
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface45"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Middle1_L",
+      "originRoot": {
+        "position": [
+          87.13156112034535,
+          10.080375730991364,
+          49.950347900390625
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface47"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Middle2_L",
+      "originRoot": {
+        "position": [
+          91.69361098606801,
+          10.083093702793121,
+          49.10047912597656
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface17"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Middle3_L",
+      "originRoot": {
+        "position": [
+          95.18276198704457,
+          10.224301397800446,
+          48.041717529296875
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface46"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Pinky1_L",
+      "originRoot": {
+        "position": [
+          85.32893355686879,
+          14.270777761936188,
+          48.88316345214844
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface50"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Pinky2_L",
+      "originRoot": {
+        "position": [
+          88.87828811009145,
+          14.483359396457672,
+          48.551849365234375
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface19"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Pinky3_L",
+      "originRoot": {
+        "position": [
+          91.8297422726891,
+          14.761316359043121,
+          48.238739013671875
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface51"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Ring1_L",
+      "originRoot": {
+        "position": [
+          86.54015334446645,
+          12.400429785251617,
+          49.48597717285156
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface85"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Ring2_L",
+      "originRoot": {
+        "position": [
+          90.93337233860707,
+          12.414975225925446,
+          49.005279541015625
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface83"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Ring3_L",
+      "originRoot": {
+        "position": [
+          94.30853255589223,
+          12.540904104709625,
+          48.1678466796875
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface80"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Thumb1_L",
+      "originRoot": {
+        "position": [
+          79.70995314915395,
+          7.3467236161231995,
+          47.88377380371094
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface32"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Thumb2_L",
+      "originRoot": {
+        "position": [
+          82.80597670872426,
+          5.307632029056549,
+          46.77372741699219
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface20"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Thumb3_L",
+      "originRoot": {
+        "position": [
+          86.85961135227895,
+          5.042279303073883,
+          46.764678955078125
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface31"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Shoulder_R",
+      "originRoot": {
+        "position": [
+          -18.02326027552867,
+          9.014817297458649,
+          51.08390808105469
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface1"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Elbow_R",
+      "originRoot": {
+        "position": [
+          -47.7075883547523,
+          11.95690256357193,
+          50.27317810058594
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface27"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Hand_R",
+      "originRoot": {
+        "position": [
+          -74.65726486842418,
+          11.386326849460602,
+          51.323699951171875
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface2"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "XBR.039",
+      "originRoot": {
+        "position": [
+          -85.12950913111949,
+          15.84224420785904,
+          51.20265197753906
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface42"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Pinky2_R",
+      "originRoot": {
+        "position": [
+          -88.67592636744762,
+          16.193409979343414,
+          51.42658996582031
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface57"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Pinky3_R",
+      "originRoot": {
+        "position": [
+          -91.63816849391246,
+          16.52429109811783,
+          51.46714782714844
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface43"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Index1_R",
+      "originRoot": {
+        "position": [
+          -86.80403153102183,
+          9.008074820041656,
+          51.4398193359375
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface36"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Index2_R",
+      "originRoot": {
+        "position": [
+          -91.06533066432262,
+          8.850964605808258,
+          50.98811340332031
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface93"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Index3_R",
+      "originRoot": {
+        "position": [
+          -94.43752304713512,
+          8.668496191501617,
+          50.65382385253906
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface95"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Middle1_R",
+      "originRoot": {
+        "position": [
+          -86.95289627711558,
+          11.634306013584137,
+          52.15998840332031
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface39"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Middle2_R",
+      "originRoot": {
+        "position": [
+          -91.58037583033824,
+          11.398717939853668,
+          51.90830993652344
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface13"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Middle3_R",
+      "originRoot": {
+        "position": [
+          -95.21205917994762,
+          11.25935846567154,
+          51.582000732421875
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface38"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Ring1_R",
+      "originRoot": {
+        "position": [
+          -86.34266678492808,
+          13.964439451694489,
+          51.777740478515625
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface40"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Ring2_R",
+      "originRoot": {
+        "position": [
+          -90.75199906031871,
+          14.054353773593903,
+          52.06011962890625
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface14"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Ring3_R",
+      "originRoot": {
+        "position": [
+          -94.23147598902965,
+          14.055269300937653,
+          52.110137939453125
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface41"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Thumb1_R",
+      "originRoot": {
+        "position": [
+          -79.70167557399058,
+          8.88484674692154,
+          49.57432556152344
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface29"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Thumb2_R",
+      "originRoot": {
+        "position": [
+          -82.83398453395152,
+          6.6209312081336975,
+          49.374603271484375
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface72"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Thumb3_R",
+      "originRoot": {
+        "position": [
+          -86.84681717555308,
+          6.129563868045807,
+          48.978851318359375
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface73"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "neck",
+      "originRoot": {
+        "position": [
+          5.84126696878684e-06,
+          5.142047941684723,
+          58.355224609375
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface25"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Head",
+      "originRoot": {
+        "position": [
+          6.841303687110667e-06,
+          3.244828760623932,
+          67.45054626464844
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface91"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Hip_L",
+      "originRoot": {
+        "position": [
+          9.006138642623185,
+          -0.20224803686141968,
+          -2.7682342529296875
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface86"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Knee_L",
+      "originRoot": {
+        "position": [
+          9.097515900923966,
+          1.0795807242393494,
+          -45.32242965698242
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface21"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Foot_L",
+      "originRoot": {
+        "position": [
+          8.932625611617325,
+          7.331968367099762,
+          -85.0308427810669
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface7"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "LeftToeBase",
+      "originRoot": {
+        "position": [
+          9.479036172225236,
+          -9.10253518819809,
+          -95.69246077537537
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface9"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Hip_R",
+      "originRoot": {
+        "position": [
+          -9.00613896052623,
+          -0.20224803686141968,
+          -2.7682723999023438
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface87"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Knee_R",
+      "originRoot": {
+        "position": [
+          -9.972698370621444,
+          1.0792497992515564,
+          -45.31156539916992
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface22"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "hc_Foot_R",
+      "originRoot": {
+        "position": [
+          -10.894620100662948,
+          7.354703962802887,
+          -85.0060043334961
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface8"
+      ]
+    },
+    {
+      "model": {
+        "name": "XXBR"
+      },
+      "name": "RightToeBase",
+      "originRoot": {
+        "position": [
+          -12.054251829788925,
+          -9.06840604543686,
+          -95.63603472709656
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "visuals": [
+        "polySurface10"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1060 @@
+{
+  "joints": [
+    {
+      "child": "Spine",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "Spine_joint",
+      "origin": {
+        "position": [
+          8.410849687834343e-07,
+          -0.5671533048152924,
+          9.488670349121094
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Abdomen"
+    },
+    {
+      "child": "hc_Chest",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Chest_joint",
+      "origin": {
+        "position": [
+          2.0000727545266273e-06,
+          1.3506433069705963,
+          19.207557678222656
+        ],
+        "relative_to": "Spine",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "Spine"
+    },
+    {
+      "child": "hc_Shoulder_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Shoulder_L_joint",
+      "origin": {
+        "position": [
+          18.02329526344056,
+          8.231329202651978,
+          22.3875732421875
+        ],
+        "relative_to": "hc_Chest",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Chest"
+    },
+    {
+      "child": "hc_Elbow_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Elbow_L_joint",
+      "origin": {
+        "position": [
+          29.8365535736084,
+          0.04899787902832031,
+          -0.5141754150390625
+        ],
+        "relative_to": "hc_Shoulder_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Shoulder_L"
+    },
+    {
+      "child": "hc_Hand_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Hand_L_joint",
+      "origin": {
+        "position": [
+          26.947071075439453,
+          0.9609889984130859,
+          -0.8020477294921875
+        ],
+        "relative_to": "hc_Elbow_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Elbow_L"
+    },
+    {
+      "child": "hc_Index1_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Index1_L_joint",
+      "origin": {
+        "position": [
+          12.09527587890625,
+          -2.599040985107422,
+          -0.39874267578125
+        ],
+        "relative_to": "hc_Hand_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Hand_L"
+    },
+    {
+      "child": "hc_Index2_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Index2_L_joint",
+      "origin": {
+        "position": [
+          4.2402801513671875,
+          0.10071563720703125,
+          -0.627685546875
+        ],
+        "relative_to": "hc_Index1_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Index1_L"
+    },
+    {
+      "child": "hc_Index3_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Index3_L_joint",
+      "origin": {
+        "position": [
+          3.3033523559570312,
+          0.05464649200439453,
+          -0.77685546875
+        ],
+        "relative_to": "hc_Index2_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Index2_L"
+    },
+    {
+      "child": "hc_Middle1_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Middle1_L_joint",
+      "origin": {
+        "position": [
+          12.324638366699219,
+          0.05556964874267578,
+          0.182769775390625
+        ],
+        "relative_to": "hc_Hand_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Hand_L"
+    },
+    {
+      "child": "hc_Middle2_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Middle2_L_joint",
+      "origin": {
+        "position": [
+          4.562049865722656,
+          0.0027179718017578125,
+          -0.8498687744140625
+        ],
+        "relative_to": "hc_Middle1_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Middle1_L"
+    },
+    {
+      "child": "hc_Middle3_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Middle3_L_joint",
+      "origin": {
+        "position": [
+          3.4891510009765625,
+          0.14120769500732422,
+          -1.0587615966796875
+        ],
+        "relative_to": "hc_Middle2_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Middle2_L"
+    },
+    {
+      "child": "hc_Pinky1_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Pinky1_L_joint",
+      "origin": {
+        "position": [
+          10.522010803222656,
+          4.2459716796875,
+          -0.8844146728515625
+        ],
+        "relative_to": "hc_Hand_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Hand_L"
+    },
+    {
+      "child": "hc_Pinky2_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Pinky2_L_joint",
+      "origin": {
+        "position": [
+          3.5493545532226562,
+          0.21258163452148438,
+          -0.3313140869140625
+        ],
+        "relative_to": "hc_Pinky1_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Pinky1_L"
+    },
+    {
+      "child": "hc_Pinky3_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Pinky3_L_joint",
+      "origin": {
+        "position": [
+          2.9514541625976562,
+          0.2779569625854492,
+          -0.3131103515625
+        ],
+        "relative_to": "hc_Pinky2_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Pinky2_L"
+    },
+    {
+      "child": "hc_Ring1_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Ring1_L_joint",
+      "origin": {
+        "position": [
+          11.733230590820312,
+          2.3756237030029297,
+          -0.2816009521484375
+        ],
+        "relative_to": "hc_Hand_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Hand_L"
+    },
+    {
+      "child": "hc_Ring2_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Ring2_L_joint",
+      "origin": {
+        "position": [
+          4.393218994140625,
+          0.014545440673828125,
+          -0.4806976318359375
+        ],
+        "relative_to": "hc_Ring1_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Ring1_L"
+    },
+    {
+      "child": "hc_Ring3_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Ring3_L_joint",
+      "origin": {
+        "position": [
+          3.3751602172851562,
+          0.1259288787841797,
+          -0.837432861328125
+        ],
+        "relative_to": "hc_Ring2_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Ring2_L"
+    },
+    {
+      "child": "hc_Thumb1_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Thumb1_L_joint",
+      "origin": {
+        "position": [
+          4.9030303955078125,
+          -2.6780824661254883,
+          -1.8838043212890625
+        ],
+        "relative_to": "hc_Hand_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Hand_L"
+    },
+    {
+      "child": "hc_Thumb2_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Thumb2_L_joint",
+      "origin": {
+        "position": [
+          3.0960235595703125,
+          -2.0390915870666504,
+          -1.11004638671875
+        ],
+        "relative_to": "hc_Thumb1_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Thumb1_L"
+    },
+    {
+      "child": "hc_Thumb3_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Thumb3_L_joint",
+      "origin": {
+        "position": [
+          4.0536346435546875,
+          -0.265352725982666,
+          -0.0090484619140625
+        ],
+        "relative_to": "hc_Thumb2_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Thumb2_L"
+    },
+    {
+      "child": "hc_Shoulder_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Shoulder_R_joint",
+      "origin": {
+        "position": [
+          -18.023263116686394,
+          8.231327295303345,
+          22.387680053710938
+        ],
+        "relative_to": "hc_Chest",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Chest"
+    },
+    {
+      "child": "hc_Elbow_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Elbow_R_joint",
+      "origin": {
+        "position": [
+          -29.684328079223633,
+          2.9420852661132812,
+          -0.81072998046875
+        ],
+        "relative_to": "hc_Shoulder_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Shoulder_R"
+    },
+    {
+      "child": "hc_Hand_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Hand_R_joint",
+      "origin": {
+        "position": [
+          -26.949676513671875,
+          -0.5705757141113281,
+          1.0505218505859375
+        ],
+        "relative_to": "hc_Elbow_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Elbow_R"
+    },
+    {
+      "child": "XBR.039",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "XBR.039_joint",
+      "origin": {
+        "position": [
+          -10.472244262695312,
+          4.4559173583984375,
+          -0.1210479736328125
+        ],
+        "relative_to": "hc_Hand_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Hand_R"
+    },
+    {
+      "child": "hc_Pinky2_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Pinky2_R_joint",
+      "origin": {
+        "position": [
+          -3.546417236328125,
+          0.351165771484375,
+          0.22393798828125
+        ],
+        "relative_to": "XBR.039",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "XBR.039"
+    },
+    {
+      "child": "hc_Pinky3_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Pinky3_R_joint",
+      "origin": {
+        "position": [
+          -2.9622421264648438,
+          0.33088111877441406,
+          0.040557861328125
+        ],
+        "relative_to": "hc_Pinky2_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Pinky2_R"
+    },
+    {
+      "child": "hc_Index1_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Index1_R_joint",
+      "origin": {
+        "position": [
+          -12.146766662597656,
+          -2.3782520294189453,
+          0.116119384765625
+        ],
+        "relative_to": "hc_Hand_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Hand_R"
+    },
+    {
+      "child": "hc_Index2_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Index2_R_joint",
+      "origin": {
+        "position": [
+          -4.261299133300781,
+          -0.15711021423339844,
+          -0.4517059326171875
+        ],
+        "relative_to": "hc_Index1_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Index1_R"
+    },
+    {
+      "child": "hc_Index3_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Index3_R_joint",
+      "origin": {
+        "position": [
+          -3.3721923828125,
+          -0.18246841430664062,
+          -0.33428955078125
+        ],
+        "relative_to": "hc_Index2_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Index2_R"
+    },
+    {
+      "child": "hc_Middle1_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Middle1_R_joint",
+      "origin": {
+        "position": [
+          -12.295631408691406,
+          0.24797916412353516,
+          0.8362884521484375
+        ],
+        "relative_to": "hc_Hand_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Hand_R"
+    },
+    {
+      "child": "hc_Middle2_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Middle2_R_joint",
+      "origin": {
+        "position": [
+          -4.627479553222656,
+          -0.23558807373046875,
+          -0.251678466796875
+        ],
+        "relative_to": "hc_Middle1_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Middle1_R"
+    },
+    {
+      "child": "hc_Middle3_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Middle3_R_joint",
+      "origin": {
+        "position": [
+          -3.631683349609375,
+          -0.1393594741821289,
+          -0.3263092041015625
+        ],
+        "relative_to": "hc_Middle2_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Middle2_R"
+    },
+    {
+      "child": "hc_Ring1_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Ring1_R_joint",
+      "origin": {
+        "position": [
+          -11.685401916503906,
+          2.5781126022338867,
+          0.45404052734375
+        ],
+        "relative_to": "hc_Hand_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Hand_R"
+    },
+    {
+      "child": "hc_Ring2_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Ring2_R_joint",
+      "origin": {
+        "position": [
+          -4.409332275390625,
+          0.08991432189941406,
+          0.282379150390625
+        ],
+        "relative_to": "hc_Ring1_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Ring1_R"
+    },
+    {
+      "child": "hc_Ring3_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Ring3_R_joint",
+      "origin": {
+        "position": [
+          -3.4794769287109375,
+          0.00091552734375,
+          0.050018310546875
+        ],
+        "relative_to": "hc_Ring2_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Ring2_R"
+    },
+    {
+      "child": "hc_Thumb1_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Thumb1_R_joint",
+      "origin": {
+        "position": [
+          -5.044410705566406,
+          -2.5014801025390625,
+          -1.7493743896484375
+        ],
+        "relative_to": "hc_Hand_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Hand_R"
+    },
+    {
+      "child": "hc_Thumb2_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Thumb2_R_joint",
+      "origin": {
+        "position": [
+          -3.1323089599609375,
+          -2.263915538787842,
+          -0.1997222900390625
+        ],
+        "relative_to": "hc_Thumb1_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Thumb1_R"
+    },
+    {
+      "child": "hc_Thumb3_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Thumb3_R_joint",
+      "origin": {
+        "position": [
+          -4.0128326416015625,
+          -0.4913673400878906,
+          -0.395751953125
+        ],
+        "relative_to": "hc_Thumb2_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Thumb2_R"
+    },
+    {
+      "child": "neck",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "neck_joint",
+      "origin": {
+        "position": [
+          3.0001092454767786e-06,
+          4.358557939529419,
+          29.65899658203125
+        ],
+        "relative_to": "hc_Chest",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Chest"
+    },
+    {
+      "child": "hc_Head",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Head_joint",
+      "origin": {
+        "position": [
+          1.0000367183238268e-06,
+          -1.897219181060791,
+          9.095321655273438
+        ],
+        "relative_to": "neck",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "neck"
+    },
+    {
+      "child": "hc_Hip_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Hip_L_joint",
+      "origin": {
+        "position": [
+          9.006138642623185,
+          -0.20224803686141968,
+          -2.7682342529296875
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Abdomen"
+    },
+    {
+      "child": "hc_Knee_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Knee_L_joint",
+      "origin": {
+        "position": [
+          0.09137725830078125,
+          1.281828761100769,
+          -42.554195404052734
+        ],
+        "relative_to": "hc_Hip_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Hip_L"
+    },
+    {
+      "child": "hc_Foot_L",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Foot_L_joint",
+      "origin": {
+        "position": [
+          -0.16489028930664062,
+          6.252387642860413,
+          -39.70841312408447
+        ],
+        "relative_to": "hc_Knee_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Knee_L"
+    },
+    {
+      "child": "LeftToeBase",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "LeftToeBase_joint",
+      "origin": {
+        "position": [
+          0.5464105606079102,
+          -16.43450355529785,
+          -10.661617994308472
+        ],
+        "relative_to": "hc_Foot_L",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Foot_L"
+    },
+    {
+      "child": "hc_Hip_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Hip_R_joint",
+      "origin": {
+        "position": [
+          -9.00613896052623,
+          -0.20224803686141968,
+          -2.7682723999023438
+        ],
+        "relative_to": "hc_Abdomen",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Abdomen"
+    },
+    {
+      "child": "hc_Knee_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Knee_R_joint",
+      "origin": {
+        "position": [
+          -0.9665594100952148,
+          1.281497836112976,
+          -42.54329299926758
+        ],
+        "relative_to": "hc_Hip_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Hip_R"
+    },
+    {
+      "child": "hc_Foot_R",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "hc_Foot_R_joint",
+      "origin": {
+        "position": [
+          -0.9219217300415039,
+          6.275454163551331,
+          -39.69443893432617
+        ],
+        "relative_to": "hc_Knee_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Knee_R"
+    },
+    {
+      "child": "RightToeBase",
+      "constraint_axes": [],
+      "cut_joint": false,
+      "joint_dependencies": [],
+      "joint_type": "revolute",
+      "name": "RightToeBase_joint",
+      "origin": {
+        "position": [
+          -1.1596317291259766,
+          -16.423110008239746,
+          -10.630030393600464
+        ],
+        "relative_to": "hc_Foot_R",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parent": "hc_Foot_R"
+    }
+  ]
+}
